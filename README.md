@@ -3,6 +3,8 @@
 
 이력서
 [https://docs.google.com/document/d/1cT7fA7Tkgo6mqPRcRIyvEOoMdChQXkVCo_U4wELryVI/edit?usp=sharing](https://docs.google.com/document/d/1cT7fA7Tkgo6mqPRcRIyvEOoMdChQXkVCo_U4wELryVI/edit?usp=sharing)
+
+
 블로그
 [https://ravenkim97.tistory.com/](https://ravenkim97.tistory.com/)
 
