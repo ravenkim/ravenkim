@@ -1,13 +1,15 @@
 ## Hi there 👋
 
 
-이력서
+# 이력서
 [https://docs.google.com/document/d/1cT7fA7Tkgo6mqPRcRIyvEOoMdChQXkVCo_U4wELryVI/edit?usp=sharing](https://docs.google.com/document/d/1cT7fA7Tkgo6mqPRcRIyvEOoMdChQXkVCo_U4wELryVI/edit?usp=sharing)
 
 
-블로그
-[정리-velog](https://velog.io/@ravenkim/posts)
-[공부-tistory](https://ravenkim97.tistory.com/)
+# 블로그
+
+- [정리-velog](https://velog.io/@ravenkim/posts)
+
+- [공부-tistory](https://ravenkim97.tistory.com/)
 
 
 
