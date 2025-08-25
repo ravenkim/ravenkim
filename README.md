@@ -6,7 +6,8 @@
 
 
 블로그
-[https://ravenkim97.tistory.com/](https://ravenkim97.tistory.com/)
+[정리-velog](https://velog.io/@ravenkim/posts)
+[공부-tistory](https://ravenkim97.tistory.com/)
 
 
 
