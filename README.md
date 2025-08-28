@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/686b0c28-0fad-463b-8005-d2e3472c03ca.svg)](https://wakatime.com/@686b0c28-0fad-463b-8005-d2e3472c03ca)
+
 
 # 이력서
 [https://docs.google.com/document/d/1cT7fA7Tkgo6mqPRcRIyvEOoMdChQXkVCo_U4wELryVI/edit?usp=sharing](https://docs.google.com/document/d/1cT7fA7Tkgo6mqPRcRIyvEOoMdChQXkVCo_U4wELryVI/edit?usp=sharing)
