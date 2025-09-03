@@ -4,6 +4,7 @@
 
 
 # 이력서
+[https://docs.google.com/document/d/1SUyYA65k5tHUaX4J5vviHSVoUogkGMPQGs7mM6c1pd0/edit?usp=sharing](https://docs.google.com/document/d/1SUyYA65k5tHUaX4J5vviHSVoUogkGMPQGs7mM6c1pd0/edit?usp=sharing)
 [https://docs.google.com/document/d/1cT7fA7Tkgo6mqPRcRIyvEOoMdChQXkVCo_U4wELryVI/edit?usp=sharing](https://docs.google.com/document/d/1cT7fA7Tkgo6mqPRcRIyvEOoMdChQXkVCo_U4wELryVI/edit?usp=sharing)
 
 
