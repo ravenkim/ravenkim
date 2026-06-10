@@ -1,16 +1,13 @@
-# 논문 (Papers)
+# 논문
 
-논문 및 연구 자료를 여기에 정리합니다.
+## A Study on the Risk and Countermeasures of Hacking Cable
 
-## 구조 예시
-
-```
-papers/
-├── published/      # 게재된 논문
-├── conference/     # 학회 발표 자료
-└── in-progress/    # 작성 중인 논문
-```
-
-| 제목 | 학술지/학회 | 연도 | 링크 |
-|------|-------------|------|------|
-|      |             |      |      |
+| 항목 | 내용 |
+|------|------|
+| 제목 | A Study on the Risk and Countermeasures of Hacking Cable |
+| 학술지 | Journal of The Korea Society of Computer and Information |
+| 권호 | Vol. 28, No. 4, pp. 75–81 |
+| 게재일 | 2023년 4월 |
+| DOI | https://doi.org/10.9708/jksci.2023.28.04.075 |
+| 원문 | http://www.ibookkorea.net/Viewer/KSCI_28_04 |
+| 연관 뉴스 | http://www.ccnnews.co.kr/news/articleView.html?idxno=294843 |
