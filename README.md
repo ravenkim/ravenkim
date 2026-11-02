@@ -2,7 +2,7 @@
 
 ![wakatime](https://wakatime.com/badge/user/686b0c28-0fad-463b-8005-d2e3472c03ca.svg)
 
-AI 도구를 적극 활용해 생산성을 높이는 React 프론트엔드 개발자 김해준입니다.
+구조적인 설계를 바탕으로 보안까지 고려하는 React 프론트엔드 개발자 김해준입니다.
 
 React 4년+ 실무 경험 | LLM·AI 서비스 프론트엔드 구현 | 보일러플레이트 기반 팀 생산성 향상
 
@@ -46,6 +46,12 @@ React 4년+ 실무 경험 | LLM·AI 서비스 프론트엔드 구현 | 보일러
 ### Projects
 
 - [SimpleScaffold](https://github.com/SimpleScaffold) — React 보일러플레이트 (Vite/Next, Micro Frontend, 디자인 시스템)
+
+---
+
+### Talks
+
+- [FEConf 2026](https://2026.feconf.kr/) 라이트닝 토크 — [ss-design-system](https://github.com/SimpleScaffold/ss-design-system)
 
 
 
